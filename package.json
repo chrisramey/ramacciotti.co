@@ -1,0 +1,10 @@
+{
+  "name": "ramacciotti.io",
+  "version": "1.0.0",
+  "description": "Website for freelance work",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-less": "^1.0.0",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
